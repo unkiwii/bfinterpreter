@@ -1,0 +1,12 @@
+A simple Brainf*ck Interpreter made in Python 2.5
+
+Hello World Program: hello.b
+
+Usage:
+	bf.py SOURCEFILENAME
+
+Example:
+	bf.py hello.b
+
+
+NOTE: It has only 20MB of Stack Size.
